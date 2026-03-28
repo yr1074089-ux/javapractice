@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class topViewOfTree {
+public class topViewofTree {
 
     static class Node {
         int data;
